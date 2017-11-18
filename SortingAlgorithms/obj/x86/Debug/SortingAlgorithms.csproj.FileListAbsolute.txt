@@ -1,0 +1,5 @@
+/Users/adolfosegura/Documents/VisualStudioWorkspace/SortingAlgorithms/SortingAlgorithms/bin/Debug/SortingAlgorithms.exe
+/Users/adolfosegura/Documents/VisualStudioWorkspace/SortingAlgorithms/SortingAlgorithms/bin/Debug/SortingAlgorithms.pdb
+/Users/adolfosegura/Documents/VisualStudioWorkspace/SortingAlgorithms/SortingAlgorithms/obj/x86/Debug/SortingAlgorithms.csproj.CoreCompileInputs.cache
+/Users/adolfosegura/Documents/VisualStudioWorkspace/SortingAlgorithms/SortingAlgorithms/obj/x86/Debug/SortingAlgorithms.exe
+/Users/adolfosegura/Documents/VisualStudioWorkspace/SortingAlgorithms/SortingAlgorithms/obj/x86/Debug/SortingAlgorithms.pdb
